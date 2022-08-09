@@ -12,12 +12,14 @@
 
 `O princípio do encapsulamento é a forma pela qual o programa é divido a ponto de se tornar o mais isolado possível, ou seja, cada método pode ser executado isoladamente e retornar um resultado satisfatório ou não para cada situação. Sendo assim, o objeto não necessita conhecer qual forma cada método foi implementado.`
 
-#### :black_circle:*Herança* ####
+#### :black_circle: *Herança* ####
 
 `Esse princípio diz que, uma classe pode compartilhar métodos e atributos entre si como, por exemplo, em um sistema escolar, onde temos uma classe Pessoa que contém características que definem uma pessoa. Porém, dentro do sistema temos uma outra classe Funcionário, que contém os mesmos atributos de Pessoa, além de outros atributos que apenas funcionários podem ter. Outro exemplo seria uma classe Aluno, que também contém atributos de pessoas e outros atributos que apenas pertencem a aluno.`
 
-#### :white_circle:*Polimorfismo* ####
+#### :white_circle: *Polimorfismo* ####
 
 `Polimorfismo é uma característica na qual os mesmos atributos ou métodos podem ser utilizados por objetos distintos e com implementações de lógica diferentes. Por exemplo, podemos dizer que um carro e uma bicicleta são veículos utilizados para locomoção e ambos contêm um método “Andar” em comum, porém, a implementação de cada um deles é feita de forma diferente.`
+
+
 
 :link:[Fonte DevMedia](https://www.devmedia.com.br/programacao-orientada-a-objetos-e-programacao-estruturada/32813#:~:text=A%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20%C3%A9%20um%20modelo%20de%20programa%C3%A7%C3%A3o,estados%20poss%C3%ADveis%20definidos%20por%20atributos.)
